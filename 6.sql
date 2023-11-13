@@ -1,0 +1,2 @@
+--Agregar a todos los empleados como clientes del sistema.  Poner todos los datos y poner a sus jefes 
+--como como agente de soporte (SupportRepId)
